@@ -1,3 +1,4 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
 # Uncomment these types if you want even more clean repository. But be careful.
 # It can make harm to an existing project source. Read explanations below.
 #
@@ -56,6 +57,7 @@
 *.projdata
 *.tvsconfig
 *.dsk
+*.txaPackage
 
 # Delphi history and backups
 __history/
